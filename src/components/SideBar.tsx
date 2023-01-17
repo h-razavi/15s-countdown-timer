@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const SideBarStyled = styled.aside`
-  width: 30%;
+  width: 40%;
   height: 100vh;
   padding: 1rem;
   color: #555;
