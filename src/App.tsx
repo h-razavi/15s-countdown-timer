@@ -1,6 +1,6 @@
 import { memo, useState, useCallback } from "react";
 //
-import styled , { ThemeProvider } from "styled-components";
+import styled, { ThemeProvider } from "styled-components";
 import GlobalStyles from "./globalStyles";
 import { light, dark, browserTheme } from "./Theme.styled";
 //
